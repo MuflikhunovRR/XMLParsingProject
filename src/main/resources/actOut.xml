@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ActorCast xmlns="https://www.gotoqa.ru/actors">
+    <Cast id="1">
+        <Character>
+            <FirstName>FnameUPDATE</FirstName>
+            <LastName>LnameUPDATE</LastName>
+        </Character>
+        <Actor>
+            <FirstName>Emilia</FirstName>
+            <LastName>Clarke</LastName>
+            <BirthDay>23 October 1986</BirthDay>
+        </Actor>
+    </Cast>
+    <Cast id="20">
+        <Character>
+            <FirstName>Tyrion</FirstName>
+            <LastName>Lannister</LastName>
+        </Character>
+        <Actor>
+            <FirstName>Peter</FirstName>
+            <LastName>Dinklage</LastName>
+            <BirthDay>11 June 1969</BirthDay>
+        </Actor>
+    </Cast>
+</ActorCast>

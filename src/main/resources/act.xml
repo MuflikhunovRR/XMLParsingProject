@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ActorCast>
+    <Cast id="1">
+        <Character>
+            <FirstName>Daenerys</FirstName>
+            <LastName>Targaryen</LastName>
+        </Character>
+        <Actor>
+            <FirstName>Emilia</FirstName>
+            <LastName>Clarke</LastName>
+            <BirthDay>23 October 1986</BirthDay>
+        </Actor>
+    </Cast>
+    <Cast id="2">
+        <Character>
+            <FirstName>Tyrion</FirstName>
+            <LastName>Lannister</LastName>
+        </Character>
+        <Actor>
+            <FirstName>Peter</FirstName>
+            <LastName>Dinklage</LastName>
+            <BirthDay>11 June 1969</BirthDay>
+        </Actor>
+    </Cast>
+    <Cast id="3">
+        <Character>
+            <FirstName>Cersei</FirstName>
+            <LastName>Lannister</LastName>
+        </Character>
+        <Actor>
+            <FirstName>Lena</FirstName>
+            <LastName>Headey</LastName>
+            <BirthDay>3 October 1973</BirthDay>
+        </Actor>
+    </Cast>
+    <Cast id="4">
+        <Character>
+            <FirstName>Jon</FirstName>
+            <LastName>Snow</LastName>
+        </Character>
+        <Actor>
+            <FirstName>Kit</FirstName>
+            <LastName>Harington</LastName>
+            <BirthDay>26 December 1986</BirthDay>
+        </Actor>
+    </Cast>
+    <Cast id="5">
+        <Character>
+            <FirstName>Sansa</FirstName>
+            <LastName>Stark</LastName>
+        </Character>
+        <Actor>
+            <FirstName>Sophie</FirstName>
+            <LastName>Turner</LastName>
+            <BirthDay>21 February 1996</BirthDay>
+        </Actor>
+    </Cast>
+    <Cast id="6">
+        <Character>
+            <FirstName>Arya</FirstName>
+            <LastName>Stark</LastName>
+        </Character>
+        <Actor>
+            <FirstName>Maisie</FirstName>
+            <LastName>Williams</LastName>
+            <BirthDay>15 April 1997</BirthDay>
+        </Actor>
+    </Cast>
+    <Cast id="7">
+        <Character>
+            <FirstName>Jorah</FirstName>
+            <LastName>Mormont</LastName>
+        </Character>
+        <Actor>
+            <FirstName>Iain</FirstName>
+            <LastName>Glen</LastName>
+            <BirthDay>24 June 1961</BirthDay>
+        </Actor>
+    </Cast>
+    <Cast id="8">
+        <Character>
+            <FirstName>Samwell</FirstName>
+            <LastName>Tarly</LastName>
+        </Character>
+        <Actor>
+            <FirstName>John</FirstName>
+            <LastName>Bradley</LastName>
+            <BirthDay>15 September 1988</BirthDay>
+        </Actor>
+    </Cast>
+    <Cast id="9">
+        <Character>
+            <FirstName>Davos</FirstName>
+            <LastName>Seaworth</LastName>
+        </Character>
+        <Actor>
+            <FirstName>Liam</FirstName>
+            <LastName>Cunningham</LastName>
+            <BirthDay>2 June 1961</BirthDay>
+        </Actor>
+    </Cast>
+    <Cast id="10">
+        <Character>
+            <FirstName>Lord</FirstName>
+            <LastName>Varys</LastName>
+        </Character>
+        <Actor>
+            <FirstName>Conleth</FirstName>
+            <LastName>Hill</LastName>
+            <BirthDay>24 November 1964</BirthDay>
+        </Actor>
+    </Cast>
+</ActorCast>
